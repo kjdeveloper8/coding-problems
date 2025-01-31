@@ -1,0 +1,14 @@
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+Pipfile
+
+# Ipython
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# logs
+*.log
+
+# DS store
+**/.DS_Store
